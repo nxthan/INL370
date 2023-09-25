@@ -28,9 +28,9 @@ One-Stop Information Hub, where your success is our priority.
 
 <!-- ![](assets/img/IS.jpg) -->
 
-1. [Meet Your Educators](/meet-your-lecturers)
+1. [Meet Your Educators](/INL370/meet-your-lecturers)
 1. [clickUP Help](https://eduvation.up.ac.za/students/index.php/get-started/ultra-navigation)
-1. [Useful Tips](/useful-student-tips)
+1. [Useful Tips](/INL370/useful-student-tips)
 
 <!-- ![](assets/img/What really is the 4th industrial revolution.jpg) -->
 <!-- ![](assets/img/IS bottom.jpg) -->
