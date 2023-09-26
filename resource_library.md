@@ -7,8 +7,6 @@ permalink: /resource-library
 - [Alumni Spotlight](/assets/docs/Alumni Spotlight.docx)
 
   
-- [Up Calender](/assets/docs/Up Calender.pdf)
-- [Up Hatfield Map](/assets/docs/Up Hatfield Map.pdf)
 
   
 - [A new concept of Knowledge](/assets/docs/A new concept of Knowledge.pdf)
