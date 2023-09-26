@@ -8,13 +8,21 @@
   background-color: #1059A7!important;
 }
 
-.site-title .site-title:visited {
+.wrapper .site-title, .wrapper .site-title:visited {
   color: #eee !important;
 }
 
 .contact-list {
   color: black!important;
 }
+
+.wrapper .site-title {
+  color: #eee;
+}
+
+// .wrapper .site-nav *{
+//   color: #eee;
+// }
 
 footer {
   background-color: #D61C33!important;
