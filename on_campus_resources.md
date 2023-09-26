@@ -8,6 +8,9 @@ permalink: /on-campus-resources
 ![UP old arts](assets/img/Old_Arts_Building_of_the_University_of_Pretoria_Museums,_South_Africa.jpg)
 
 - [FLY@UP-road-map](assets/docs/FLY@UP-road-map.pdf)
+- [Up Calender](assets/docs/Up Calender.pdf)
+- [Up Hatfield Map](assets/docs/Up Hatfield Map.pdf)
+
 
 
 <br>
