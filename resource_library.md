@@ -4,9 +4,6 @@ layout: page
 permalink: /resource-library
 ---
 
-
-
-
-- [](/assets/img/IS bottom.jpg)
+- [](/assets/docs/IS bottom.jpg)
 
 <!-- {% include footer.html %} -->
