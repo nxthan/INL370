@@ -10,6 +10,8 @@ permalink: /on-campus-resources
 - [FLY@UP-road-map](assets/docs/FLY@UP-road-map.pdf)
 - [Up Calender](assets/docs/Up Calender.pdf)
 - [Up Hatfield Map](assets/docs/Up Hatfield Map.pdf)
+- [Alumni Spotlight](assets/docs/Alumni Spotlight.docx)
+
 
 
 
