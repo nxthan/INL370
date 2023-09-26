@@ -9,10 +9,6 @@ permalink: /resource-library
   
 
   
-- [A new concept of Knowledge](/assets/docs/A new concept of Knowledge.pdf)
-- [Information Science UP Collection](/assets/docs/Information Science UP Collection.docx)
-- [Introduction to Information Science](/assets/docs/Introduction to Information Science.pdf)
-
 
 
 
